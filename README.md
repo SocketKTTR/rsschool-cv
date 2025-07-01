@@ -1,1 +1,1 @@
-[# rsschool-cv](https://github.com/SocketKTTR/rsschool-cv.git)
+https://SocketKTTR.github.io/rsschool-cv/cv
