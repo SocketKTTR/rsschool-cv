@@ -1,39 +1,26 @@
-# Кутькин Артур Андреевич
+Kutskin Artur Andreevich
+Student RSSCHOOL / Front-end
+Phone: +3752572222222222 | Email: artur.kutkin@gmail.com
 
-**Студент RSSCHOOL / Front-end**  
-Телефон: +3752572222222222 | Email: artur.kutkin@gmail.com
+About Me
+35 years old, responsible and proactive, goal-oriented student with great ambitions and learning abilities. I strive to develop in the field of Front-end development and achieve professional heights. Possess good knowledge in programming and looking for an opportunity to apply my skills to solve complex tasks and contribute to the company's growth.
 
----
+Work Experience
+Sales Manager
+Fishcamp.by, Minsk — 01.2020 — 06.2023
 
-## О себе
-35 лет, ответственный и инициативный, целеустремлённый студент с огромными амбициями и способностями к обучению. Стремлюсь развиваться в области Front-end разработки и достигать профессиональных высот. Обладаю хорошими знаниями в области программирования и ищу возможность применить свои навыки для решения сложных задач и развития компании.
+Building a client base, increasing sales volume.
+Market analysis and proposals, searching for new clients.
+Secondary Vocational Education
+MGPTU 52
+Master of finishing works — 2009
 
----
-
-## Опыт работы
-
-### Менеджер по продажам
-*Fishcamp.by, Минск* — 01.2020 — 06.2023  
-- Формирование клиентской базы, увеличение объёма продаж.
-- Анализ рынка и предложений, поиск новых клиентов.  
----
-## Среднее - специальное образование
-
-### МГПТУ 52  
-*Мастер отделочных работ* — 2009 
-
----
-
-## Навыки
-- Целеустремлённость
-- Внимательность
-- Обучаемость
----
-## Языки
-- Русский — родной
-- Английский — А1
-
----
-
-## Дополнительная информация
-2024 - курс "Ведение деловых переговоров" 21 Век Консалт.
+Skills
+Goal-oriented
+Attentiveness
+Quick Learner
+Languages
+Russian — native
+English — A1
+Additional Information
+2024 - Course "Business Negotiations" 21 Vek Konsalt
