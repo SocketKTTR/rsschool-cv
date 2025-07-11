@@ -61,6 +61,7 @@
 .work_item {
     width: 200px;
     margin: 10px;
+    cursor: pointer;
 }
 
 .work_img {
@@ -84,4 +85,19 @@
 
 .skills {
     padding: 20px;
+}
+
+.footer_info {
+    min-width: 600px;
+    min-height: 600px;
+    background: url(/rsschool-cv/img/rs-school-logo.svg) center center / contain no-repeat;
+}
+
+.footer_btn {
+    margin-top: 90px;
+    margin-left: 600px;
+    text-align: center;
+    min-height: 100px;
+    min-width: 200px;
+    cursor: pointer;
 }
