@@ -177,3 +177,9 @@
     background-color: #e0e0e0;
     transform: translateY(-2px);
 }
+
+pre {
+    background-color: #e0e0e080;
+    font-size: 14px;
+    color: #e0e0e0;
+}
