@@ -6,6 +6,11 @@
 
 .container {
     padding: 10px;
+    background-color: #e0e0e0;
+}
+
+.container_ul {
+    margin-left: 20px;
 }
 
 .heading_space {
@@ -52,9 +57,8 @@
 }
 
 .work_wrapper {
-    display: flex;
-    justify-content: space-around;
     margin-top: 10px;
+    padding-left: 20px;
 
 }
 
@@ -96,6 +100,7 @@
     min-width: 600px;
     min-height: 600px;
     background: url(/rsschool-cv/img/rs-school-logo.svg) center center / contain no-repeat;
+    background-color: rgb(237, 241, 236);
 }
 
 .footer_btn {
@@ -123,6 +128,11 @@
     display: flex;
     position: relative;
     left: 200px;
+}
+
+.footer {
+    background-color: #f0f0f0;
+    padding: 20px;
 }
 
 .footer_bottom {
